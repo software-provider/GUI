@@ -1,0 +1,4 @@
+﻿  XO.cpp
+D:\Projects\TicTacToe-CPP\XOGUI\XO.cpp(284): warning C4715: 'tictactoe::easyComputer_turn': not all control paths return a value
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  XOGUI.vcxproj -> D:\Projects\TicTacToe-CPP\x64\Debug\TicTacToe.exe

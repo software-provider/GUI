@@ -1,0 +1,33 @@
+  XOGUI.MyForm.resources - Embedded, ContainedInManifestFile, 
+ImageRuntimeVersion: v4.0.30319
+Assembly TicTacToe, Version=0.0.*, Culture=Invariant Language (Invariant Country): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class XOGUI.MyForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    Boolean playerPlayer : Public
+    Boolean turn : Public
+    Boolean type : Public
+    Boolean difficulty : Public
+  Methods:
+    restart_match(): PrivateScope, Public, HideBySig
+    restart_game(): PrivateScope, Public, HideBySig
+    setButton(Int32): PrivateScope, Public, HideBySig
+    player_wins(): PrivateScope, Public, HideBySig
+    button_State(Boolean(HasFieldMarshal)): PrivateScope, Public, HideBySig
+    button_visibility(Boolean(HasFieldMarshal)): PrivateScope, Public, HideBySig
+    button_reset(): PrivateScope, Public, HideBySig
+    start_game(): PrivateScope, Public, HideBySig

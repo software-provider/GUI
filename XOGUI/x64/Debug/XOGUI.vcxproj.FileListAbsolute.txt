@@ -1,0 +1,4 @@
+D:\Projects\TicTacToe-CPP\XOGUI\x64\Debug\XOGUI.vcxproj.AssemblyReference.cache
+D:\Projects\TicTacToe-CPP\XOGUI\x64\Debug\XOGUI.vcxproj.SuggestedBindingRedirects.cache
+D:\Projects\TicTacToe-CPP\XOGUI\x64\Debug\XOGUI.MyForm.resources
+D:\Projects\TicTacToe-CPP\XOGUI\x64\Debug\XOGUI.vcxproj.GenerateResource.cache
